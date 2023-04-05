@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working on ...Front-end Web Development and Web-designing
+- 🌱 I’m currently learning ...JavaScript and Figma
+- 👯 I’m looking to collaborate on ...Front-end projects
+- 🤔 I’m looking for help with ...Backened technology
+- 💬 Ask me about ...Html and Css
+- 📫 How to reach me: ...https://www.linkedin.com/in/parthiv-ghose-91517a253
+- 😄 Pronouns: ... He/Him
 
 <!--
 **parthivghose2919/parthivghose2919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
