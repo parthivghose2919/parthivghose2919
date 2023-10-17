@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parthiv</h1>
 <h3 align="center">A passionate Web and Android developer from India</h3>
 <img align="center" alt="Coding" width="1000" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<a href="(https://holopin.me/parthivghose2919)](https://holopin.io/@parthivghose2919)">
-
+[![An image of @parthivghose2919's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/parthivghose2919)](https://holopin.io/@parthivghose2919)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthivghose2919&label=Profile%20views&color=0e75b6&style=flat" alt="parthivghose2919" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthivghose2919" alt="parthivghose2919" /></a> </p>
